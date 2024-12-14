@@ -5,7 +5,7 @@
 <p align="center"> 🌱 I'm currently learning React JS. <br>🔭 I'm looking for my first job opportunity as a Frontend Developer.</p>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/marcella-carneiro/">
+  <a href="https://www.linkedin.com/in/marcella-carneiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:marcella.ferreira028@gmail.com">
